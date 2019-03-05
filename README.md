@@ -1,4 +1,4 @@
-# glassdoor_wordcloud
+# Glassdoor WordCloud Generator
 There are many wordcloud generator's out there that can be used universally with any website, but this project was started mainly to focus on glassdoor review's of companies (that I have worked on, specifically CHC CONSULTING, LLC). 
 
 Webscraping the website itself, when the code is run it asks for the amount of websites that the user will wish to review given that there are multiple pages per company of reviews on glassdoor. Once the quantity of websites is entered, the next thing the user is asked for are the individual websites (URL) themselves. 
