@@ -7,13 +7,21 @@ For example, on glassdoor if we search for CHC CONSULTING, we can see that there
 In this case we would enter 10 for the first question and then start entering the URL's consecutively: 
 
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P3.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P4.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P5.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P6.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P7.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P8.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P9.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P10.htm
 
 Once the website is scraped, HTML code is extracted and temporarily stored to be cleaned up through different functions.
