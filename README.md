@@ -8,6 +8,8 @@ In this case we would enter 10 for the first question and then start entering th
 
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647.htm
 
+https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P2.htm
+
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P3.htm
 
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P4.htm
