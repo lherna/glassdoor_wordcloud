@@ -35,4 +35,4 @@ https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P13.htm
 https://www.glassdoor.com/Reviews/CHC-Consulting-Reviews-E806647_P14.htm
 
 Once the website is scraped, HTML code is extracted and temporarily stored to be cleaned up through different functions.
-Finally, a universal dataframe containing the information of all of the different websites is made and plots are made according to the popular words that you can see and choose all the way up to the final product - wordcloud. 
+Finally, a universal dataframe containing the information of all of the different websites is made and plots are made according to the popular words that you can see and choose all the way up to the final product - wordcloud.
